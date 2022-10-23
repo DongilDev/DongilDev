@@ -1,1 +1,1 @@
-[![조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongilDev&count_bg=%237FDFCA&title_bg=%23464B4D&icon=datadog.svg&icon_color %23F4F4F4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongilDev&count_bg=%23252627&title_bg=%23252627&icon=github.svg&icon_color=white"/>
